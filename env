@@ -1,0 +1,11 @@
+ENVIRONMENT=dev
+
+# Db config
+DB_PORT=3306
+DB_HOST=database
+DB_USER=admin
+DB_PASS=Admin@123
+DB_NAME=hc_tea
+
+# Key
+SECRET_KEY=2024
